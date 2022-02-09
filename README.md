@@ -11,3 +11,5 @@
 2. [Programmers_12954 x만큼 간격이 있는 n개의 숫자 Lv.01](https://programmers.co.kr/learn/courses/30/lessons/12954) (2022.02.09)
 
 3. [Programmers_12950 행렬의 덧셈 Lv.01](https://programmers.co.kr/learn/courses/30/lessons/12950) (2022.02.09)
+
+4. [Programmers_12948 핸드폰 번호 가리기 Lv.01](https://programmers.co.kr/learn/courses/30/lessons/12948) (2022.02.09)
