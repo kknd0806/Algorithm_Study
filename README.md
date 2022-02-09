@@ -1,0 +1,9 @@
+# Algorithm Studt
+
+<br/>
+
+## 프로그래머스 알고리즘 문제풀이
+
+<br/>
+
+1. [Programmers_12969 직사각형 별찍기 Lv.01](https://programmers.co.kr/learn/courses/30/lessons/12969) (2022.02.09)
