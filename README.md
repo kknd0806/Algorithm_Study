@@ -13,3 +13,5 @@
 3. [Programmers_12950 행렬의 덧셈 Lv.01](https://programmers.co.kr/learn/courses/30/lessons/12950) (2022.02.09)
 
 4. [Programmers_12948 핸드폰 번호 가리기 Lv.01](https://programmers.co.kr/learn/courses/30/lessons/12948) (2022.02.09)
+
+5. [Programmers_12947 하샤드 수 Lv.01](https://programmers.co.kr/learn/courses/30/lessons/12947) (2022.02.10)
