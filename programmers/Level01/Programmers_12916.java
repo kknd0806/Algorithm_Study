@@ -6,8 +6,12 @@ public class Programmers_12916 {
         int p = 0;
         int y = 0;
         for(String c : ss){
-            if(c.equals("P") || c.equals("p")) p++;
-            else if(c.equals("y") || c.equals("y")) p++;
+            if(c.equals("P") || c.equals("p")) {
+                p++;
+            }
+            else if(c.equals("Y") || c.equals("y")) {
+                y++;
+            }
         }
         
         return p==y;
