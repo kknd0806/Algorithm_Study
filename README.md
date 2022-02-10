@@ -17,3 +17,5 @@
 5. [Programmers_12947 하샤드 수 Lv.01](https://programmers.co.kr/learn/courses/30/lessons/12947) (2022.02.10)
 
 6. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
+
+7. [Programmers_12944 평균 구하기 Lv.01](https://programmers.co.kr/learn/courses/30/lessons/12944) (2022.02.10)
