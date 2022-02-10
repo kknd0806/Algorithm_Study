@@ -21,3 +21,5 @@
 7. [Programmers_12944 평균 구하기 Lv.01](https://programmers.co.kr/learn/courses/30/lessons/12944) (2022.02.10)
 
 8. [Programmers_12943 콜라츠 추측 Lv.01](https://programmers.co.kr/learn/courses/30/lessons/12943) (2022.02.10)
+
+9. [Programmers_12937 짝수와 홀수 Lv.01](https://programmers.co.kr/learn/courses/30/lessons/12937) (2022.02.10)
