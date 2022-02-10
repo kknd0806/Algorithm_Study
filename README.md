@@ -30,6 +30,8 @@
 
 11. [Programmers_12931 자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) (2022.02.10)
 
+12. [Programmers_12930 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) (2022.02.10)
+
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
