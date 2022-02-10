@@ -26,7 +26,9 @@
 
 9. [Programmers_12935 가장작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) (2022.02.10)
 
-10. [Programmers_12933 정수 내리차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) (2022.02.10)
+10. [Programmers_12933 정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) (2022.02.10)
+
+11. [Programmers_12931 자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) (2022.02.10)
 
 ### Level 02
 
