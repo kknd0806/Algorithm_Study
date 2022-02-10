@@ -38,6 +38,8 @@
 
 15. [Programmers_12916 문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) (2022.02.10)
 
+16. [Programmers_82612 부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) (2022.02.10)
+
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
