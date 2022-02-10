@@ -34,6 +34,8 @@
 
 13. [Programmers_12921 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) (2022.02.10)
 
+14. [Programmers_12919 서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) (2022.02.10)
+
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
