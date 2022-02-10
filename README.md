@@ -26,6 +26,9 @@
 
 9. [Programmers_12935 가장작은 수 제거하기 Lv.01](https://programmers.co.kr/learn/courses/30/lessons/12935) (2022.02.10)
 
+
+10. []
+
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)

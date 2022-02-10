@@ -1,4 +1,4 @@
-package programmers;
+package programmers.Level01;
 
 public class Programmers_12943 {
     public int solution (int num) {

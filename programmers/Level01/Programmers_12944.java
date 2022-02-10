@@ -1,4 +1,4 @@
-package programmers;
+package programmers.Level01;
 
 public class Programmers_12944 {
     public static double solution(int[] arr){
