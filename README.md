@@ -42,6 +42,8 @@
 
 17. [Programmers_86491 최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) (2022.02.10)
 
+18. [Programmers_12901 2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) (2022.02.11)
+
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
