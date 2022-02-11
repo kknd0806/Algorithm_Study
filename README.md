@@ -50,6 +50,8 @@
 
 21. [Programmers_42840 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) (2022.02.11)
 
+22. [Programmers_42748 K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) (2022.02.11)
+
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
