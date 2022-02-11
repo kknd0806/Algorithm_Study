@@ -48,6 +48,7 @@
 
 20. [Programmers_42862 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) (2022.02.11)
 
+21. [Programmers_42840 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) (2022.02.11)
 
 ### Level 02
 
