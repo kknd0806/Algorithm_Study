@@ -46,6 +46,9 @@
 
 19. [Programmers_12982 예산](https://programmers.co.kr/learn/courses/30/lessons/12982) (2022.02.11)
 
+20. [Programmers_42862 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) (2022.02.11)
+
+
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)

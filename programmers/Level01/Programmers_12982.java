@@ -6,13 +6,11 @@ public class Programmers_12982 {
     public int solution(int[] d, int budget){
         int answer = 0;
         Arrays.sort(d);
-        int index = 0;
-        while(budget < 0){
-            budget -= d[index];
-            index++;
-            answer++;
+        for(int n : d){
+            budget -= n;
+            if(budget<0) break;
+            answer ++;
         }
-        answer--;
 
         return answer;
     }
