@@ -56,6 +56,8 @@
 
 24. [Programmers_77484 로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) (2022.02.14)
 
+25. [Programmers_72410 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) (2022.02.15)
+
 
 ### Level 02
 
