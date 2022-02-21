@@ -62,6 +62,7 @@
 
 27. [Programmers_67256 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) (2022.02.18)
 
+28. [Programmers_64061 크레인 인형 뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) (2022.02.21)
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
