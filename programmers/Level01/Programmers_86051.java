@@ -33,4 +33,13 @@ public class Programmers_86051 {
 
         return answer;
     }
+
+    // 프로그래머스 정답 중 하나
+    public int solution3(int[] numbers){
+        int answer = 45;
+        for(int n : numbers){
+            answer -= n;
+        }
+        return answer;
+    }
 }
