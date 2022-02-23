@@ -70,6 +70,8 @@
 
 31. [Programmers_70128 내적](https://programmers.co.kr/learn/courses/30/lessons/70128) (2022.02.22)
 
+32. [Programmers_92334 신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) (2022.02.23)
+
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
