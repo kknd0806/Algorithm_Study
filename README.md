@@ -72,6 +72,7 @@
 
 32. [Programmers_92334 신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) (2022.02.23)
 
+33. [Programmers_1845 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) (2022.02.24)
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
