@@ -20,7 +20,6 @@ public class Programmers_77884 {
             answer += temp%2==0?i:-i;
         }
         
-        System.out.println(answer);
         return answer;
     }
 }
