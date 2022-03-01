@@ -79,6 +79,8 @@
 35. [Programmers_77884 약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884?language=java) (2022.02.28)
 
 36. [Programmers_87389 나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) (2022.02.28)
+
+37. [Programmers_68935 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) (2022.03.01)
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
