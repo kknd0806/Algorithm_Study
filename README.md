@@ -83,6 +83,8 @@
 37. [Programmers_68935 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) (2022.03.01)
 
 38. [Programmers_68644 두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) (2022.03.02)
+
+39. [Programmers_12903 가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) (2022.03.03)
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
