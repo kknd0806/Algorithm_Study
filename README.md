@@ -85,6 +85,8 @@
 38. [Programmers_68644 두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) (2022.03.02)
 
 39. [Programmers_12903 가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) (2022.03.03)
+
+40. [Programmers_12940 최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) (2022.03.04)
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
