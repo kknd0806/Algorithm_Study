@@ -87,6 +87,8 @@
 39. [Programmers_12903 가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) (2022.03.03)
 
 40. [Programmers_12940 최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) (2022.03.04)
+
+41. [Programmers_12934 정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) (2022.03.07)
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
