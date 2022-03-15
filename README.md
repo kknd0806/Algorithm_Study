@@ -91,6 +91,8 @@
 41. [Programmers_12934 정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) (2022.03.07)
 
 42. [Programmers_12932 자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) (2022.03.15)
+
+43. [Programmers_12925 문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) (2022.03.15)
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
