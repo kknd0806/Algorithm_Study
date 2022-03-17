@@ -95,6 +95,11 @@
 43. [Programmers_12925 문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) (2022.03.15)
 
 44. [Programmers_12912 두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) (2022.03.16)
+
+45. [Programmers_12977 소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) (2022.03.17)
+
+46. [Programmers_12918 문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) (2022.03.17)
+
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
