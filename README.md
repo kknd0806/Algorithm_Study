@@ -103,6 +103,8 @@
 47. [Programmers_12922 수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) (2022.03.17)
 
 48. [Programmers_12906 같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906?language=java) (2022.03.21)
+
+49. [Programmers_12917 문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) (2022.03.21)
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
