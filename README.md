@@ -112,6 +112,8 @@
 
 52. [Programmers_12926 시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926) (2022.04.12)
 
+53. [Programmers_17681 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681?language=java) (2022.04.13)
+
 ### Level 02
 
 1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
