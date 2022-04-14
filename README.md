@@ -116,4 +116,6 @@
 
 ### Level 02
 
-1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
+1. [Programmers_12945 피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
+
+2. [Programmers_12953 N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) (2022.04.14)
