@@ -1,4 +1,4 @@
-package programmers.Level01;
+package programmers.Level02;
 
 public class Programmers_12953 {
     // 유클리드 호재법 이용
