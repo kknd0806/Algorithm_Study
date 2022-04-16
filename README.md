@@ -119,3 +119,5 @@
 1. [Programmers_12945 피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
 
 2. [Programmers_12953 N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) (2022.04.14)
+
+3. [Programmers_12949 행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) (2022.04.16)
