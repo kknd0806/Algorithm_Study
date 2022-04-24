@@ -121,3 +121,5 @@
 2. [Programmers_12953 N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) (2022.04.14)
 
 3. [Programmers_12949 행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) (2022.04.16)
+
+4. [Programmers_12924 숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) (2022.04.17)
