@@ -123,3 +123,5 @@
 3. [Programmers_12949 행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) (2022.04.16)
 
 4. [Programmers_12924 숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) (2022.04.17)
+
+5. [Programmers_12951 JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=java)(2022.04.24)
