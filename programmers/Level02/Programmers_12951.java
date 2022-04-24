@@ -8,8 +8,9 @@ public class Programmers_12951 {
     public static String solution(String s) {
         StringBuilder sb = new StringBuilder();
 
+
         if(isUpeer(s.charAt(0))){
-            sb.append(s.charAt(0)-32);
+            sb.append(s.substring(0,1).toUpperCase());
         } else {
             sb.append(s.charAt(0));
         }
@@ -25,5 +26,18 @@ public class Programmers_12951 {
     }
     public static Boolean isUpeer(char c) {
         return c>='a' && c<='z' ? true : false;
+    }
+
+    public String solution2(String s) {
+        String[] arr = s.toLowerCase().split("");
+        StringBuilder sb = new StringBuilder();
+        boolean isFirst = true;
+
+        for(String a: arr) {
+            sb.append( isFirst ? a.toUpperCase() : a );
+            isFirst = a.equals(" ");
+        }
+
+        return sb.toString();
     }
 }
