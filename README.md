@@ -125,3 +125,5 @@
 4. [Programmers_12924 숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) (2022.04.17)
 
 5. [Programmers_12951 JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=java)(2022.04.24)
+
+6. [Programmers_12941 최솟값 들기](https://programmers.co.kr/learn/courses/30/lessons/12941) (2022.04.25)
