@@ -15,4 +15,21 @@ public class Programmers_12939 {
 
         return answer;
     }
+
+    // Integer.parseInt가 생각보다 시간을 많이 잡아먹는듯
+    public String solution2(String s) {
+        String[] arr = s.split(" ");
+        int min, max, n;
+        min = max = Integer.parseInt(arr[0]);
+
+        for(String num : arr) {
+            n = Integer.parseInt(num);
+            min = Integer.min(min, n);
+            max = Integer.max(max, n);
+        }
+
+        String answer = min + " " + max;
+
+        return answer;
+    }
 }
