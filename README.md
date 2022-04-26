@@ -127,3 +127,5 @@
 5. [Programmers_12951 JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=java)(2022.04.24)
 
 6. [Programmers_12941 최솟값 들기](https://programmers.co.kr/learn/courses/30/lessons/12941) (2022.04.25)
+
+7. [Programmers_12939 최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) (2022.04.26)
