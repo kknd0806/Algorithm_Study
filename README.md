@@ -131,3 +131,5 @@
 7. [Programmers_12939 최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) (2022.04.26)
 
 8. [Programmers_12913 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) (2022.04.27)
+
+9. [Programmers_12911 다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) (2022.04.28)
