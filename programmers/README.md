@@ -1,8 +1,8 @@
-# Algorithm Studt
+# Java 문제풀이
 
 <br/>
 
-## 프로그래머스 알고리즘 문제풀이
+## Java 문제풀이
 
 <br/>
 
