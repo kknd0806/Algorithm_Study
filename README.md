@@ -133,3 +133,5 @@
 8. [Programmers_12913 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) (2022.04.27)
 
 9. [Programmers_12911 다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) (2022.04.28)
+
+10. [Programmers_12909 올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=java) (2022.04.29)
