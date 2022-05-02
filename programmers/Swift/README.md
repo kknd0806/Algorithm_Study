@@ -17,3 +17,5 @@
 4. [Programmers_70128 내적](https://programmers.co.kr/learn/courses/30/lessons/70128?language=swift) (2022.05.01)
 
 5. [Programmers_12934 정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934?language=swift) (2022.05.01)
+
+6. [Programmers_12954 x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=swift) (2022.05.02)
