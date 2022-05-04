@@ -27,3 +27,5 @@
 9. [Programmers_12948 핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) (2022.05.04)
 
 10. [Programmers_12943 콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) (2022.05.04)
+
+11. [Programmers_12940 최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) (2022.05.04)
