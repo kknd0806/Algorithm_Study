@@ -23,3 +23,5 @@
 7. [Programmers_12950 행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=swift#) (2022.05.02)
 
 8. [Programmers_12947 하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) (2022.05.04)
+
+9. [Programmers_12948 핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) (2022.05.04)
