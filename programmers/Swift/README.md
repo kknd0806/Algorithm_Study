@@ -31,3 +31,5 @@
 11. [Programmers_12940 최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) (2022.05.04)
 
 12. [Programmers_12937 짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) (2022.05.04)
+
+13. [Programmers_12935 제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) (2022.05.04)
