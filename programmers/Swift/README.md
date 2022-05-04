@@ -25,3 +25,5 @@
 8. [Programmers_12947 하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) (2022.05.04)
 
 9. [Programmers_12948 핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) (2022.05.04)
+
+10. [Programmers_12943 콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) (2022.05.04)
