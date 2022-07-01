@@ -4,7 +4,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 // 3개의 정숫값을 입력하고 중앙값을 구하여 출력
-class Example01_3 {
+class Example01C_1 {
+    // 책 문제풀이
     static int med3(int a, int b, int c) {
         if(a >= b) 
             if(b >= c)
