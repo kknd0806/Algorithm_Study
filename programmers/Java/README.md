@@ -146,4 +146,6 @@
 
 15. [Programmers_12902 3Xn 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902) (2022.06.07)
 
-16. [Programmers_42888_오픈채팅팡](https://programmers.co.kr/learn/courses/30/lessons/42888?language=java) (2022.07. 01)
+16. [Programmers_42888_오픈채팅팡](https://programmers.co.kr/learn/courses/30/lessons/42888?language=java) (2022.07.01)
+
+17. [Programmers_70129 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=java) (2022.09.18)
