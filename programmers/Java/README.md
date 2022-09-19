@@ -149,3 +149,5 @@
 16. [Programmers_42888_오픈채팅팡](https://programmers.co.kr/learn/courses/30/lessons/42888?language=java) (2022.07.01)
 
 17. [Programmers_70129 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=java) (2022.09.18)
+
+18. [Programmers_42842 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) (2022.09.19)
