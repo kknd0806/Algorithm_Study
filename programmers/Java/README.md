@@ -151,3 +151,5 @@
 17. [Programmers_70129 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=java) (2022.09.18)
 
 18. [Programmers_42842 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) (2022.09.19)
+
+19. [Programmers_12981 영어 끝말잊기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) (2022.09.22)
