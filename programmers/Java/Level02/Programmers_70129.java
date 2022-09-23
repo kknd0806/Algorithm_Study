@@ -3,7 +3,6 @@ package programmers.Java.Level02;
 public class Programmers_70129 {
     public static void main(String[] args) {
         solution("110010101001");
-        int a = 1;
     }
 
     private static int[] solution(String s) {
