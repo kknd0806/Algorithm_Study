@@ -1,14 +1,9 @@
- # Algorithm Studt
+# 프로그래머스 문제풀이
 
 <br/>
 
-## 프로그래머스 알고리즘 문제풀이
+## Java 문제풀이
 
-### [Java](https://github.com/kknd0806/Algorithm_Study/tree/main/programmers/Java)
-
-### [Swift](https://github.com/kknd0806/Algorithm_Study/tree/main/programmers/Swift)
-
-<br/>
 <br/>
 
 ### Level 01
@@ -114,6 +109,47 @@
 50. [Programmers_12910 나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) (2022.03.22)
 
 51. [Programmers_12915 문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) (2022.03.23)
+
+52. [Programmers_12926 시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926) (2022.04.12)
+
+53. [Programmers_17681 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681?language=java) (2022.04.13)
+
 ### Level 02
 
-1. [Programmers_12945 피보나치 수 Lv.02](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
+1. [Programmers_12945 피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
+
+2. [Programmers_12953 N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) (2022.04.14)
+
+3. [Programmers_12949 행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) (2022.04.16)
+
+4. [Programmers_12924 숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) (2022.04.17)
+
+5. [Programmers_12951 JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=java)(2022.04.24)
+
+6. [Programmers_12941 최솟값 들기](https://programmers.co.kr/learn/courses/30/lessons/12941) (2022.04.25)
+
+7. [Programmers_12939 최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) (2022.04.26)
+
+8. [Programmers_12913 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) (2022.04.27)
+
+9. [Programmers_12911 다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) (2022.04.28)
+
+10. [Programmers_12909 올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=java) (2022.04.29)
+
+11. [Programmers_12899 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899/solution_groups?language=java) (2022.04.30)
+
+12. [Programmers_42586 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=java) (2022.05.02)
+
+13. [Programmer_42626 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) (2022.05.04)
+
+14. [Programmers_42885 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=java) (2022.06.06)
+
+15. [Programmers_12902 3Xn 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902) (2022.06.07)
+
+16. [Programmers_42888_오픈채팅팡](https://programmers.co.kr/learn/courses/30/lessons/42888?language=java) (2022.07.01)
+
+17. [Programmers_70129 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=java) (2022.09.18)
+
+18. [Programmers_42842 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) (2022.09.19)
+
+19. [Programmers_12981 영어 끝말잊기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) (2022.09.22)
