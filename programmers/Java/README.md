@@ -114,6 +114,10 @@
 
 53. [Programmers_17681 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681?language=java) (2022.04.13)
 
+54. [Programmers_181913 문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913) (2024.03.03)
+
+55. [Programmers_258712 가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) (2024.03.03)
+
 ### Level 02
 
 1. [Programmers_12945 피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) (2022.02.10)
@@ -153,3 +157,5 @@
 18. [Programmers_42842 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) (2022.09.19)
 
 19. [Programmers_12981 영어 끝말잊기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) (2022.09.22)
+
+20. [Programmers_258711 도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) (2024.03.04)

@@ -1,4 +1,4 @@
-package programmers.Level01;
+package programmers.Java.Level01;
 
 
 public class Programmers_17682 {
